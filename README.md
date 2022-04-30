@@ -8,5 +8,5 @@ Zhang H, Zhao M, Wei C, et al. Eegdenoisenet: A benchmark dataset for deep learn
 # Code demo 
 Once the paper is accepted, the model **MMNN-4.py** will be published as soon as possible.
 # Paper Citation
-* 
+
  
