@@ -5,4 +5,8 @@ A novel multi-module neural network (MMNN) was written in Pytorch, aiming to rem
 # Materials and Preproecssing
 Refer to EEGdenoiseNet:
 Zhang H, Zhao M, Wei C, et al. Eegdenoisenet: A benchmark dataset for deep learning solutions of eeg denoising[J]. Journal of Neural Engineering, 2021, 18(5): 056057.
+# Code demo 
+Once the paper is accepted, the model **MMNN-4.py** will be published as soon as possible.
+# Paper Citation
+* 
  
